@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+
+# Scrapy generated files
+.scrapy/
+
+# Logs
+*.log
+
+# Output directory (reports)
+output/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Dependency directories
+dist/
+build/
+
+# Other generated files
+*.egg-info/
