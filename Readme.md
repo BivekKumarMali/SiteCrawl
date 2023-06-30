@@ -49,7 +49,7 @@ Follow these steps to set up and run the SiteCrawl project locally:
   ```
 
 5. Install the dependencies: pip install -r requirements.txt
-6. Run the crawler: scrapy crawl <crawler-file-name.py>
+6. Run the crawler: scrapy crawl site_crawler.py
 7. Check the generated reports in the output directory.
 
 ## Contributing
